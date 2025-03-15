@@ -31,19 +31,6 @@ The dataset consists of customer details such as:
 - **Introduce Loyalty Programs:** Long-term customers may require loyalty benefits to continue using services after 60+ months.
 - **Bundle Add-On Services:** Promoting add-ons such as tech support and security can reduce churn.
 
-## How to Use This Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/churn-analysis.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the analysis script:
-   ```bash
-   python churn_analysis.py
-   ```
 
 ## Contact
 For any inquiries or contributions, feel free to reach out!
